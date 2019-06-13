@@ -8,8 +8,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40captainhookphp-blue.svg)](https://twitter.com/intent/user?screen_name=captainhookphp)
 
 # CaptainHook
-
-**NOTE**: This repository and package is abandoned, please use the official [captaionhook](https://github.com/CaptainHookPhp/captainhook) repository instead.
+## **NOTE**: This repository and package is abandoned, please use the official [captaionhook](https://github.com/CaptainHookPhp/captainhook) repository instead.
 
 *CaptainHook* is an easy to use and very flexible git hook library for php developers.
 It enables you to configure your git hook actions in a simple json file.
@@ -25,7 +24,7 @@ You can run cli commands, use some built in validators, or write
 your own PHP classes that get executed by *CaptainHook*.
 For more information have a look at the [documentation](https://captainhookphp.github.io/captainhook/ "CaptainHook Documentation").
 
-## Installation
+## Install official version
 
 Install the *CaptainHook* PHAR using [Phive](https://phar.io/) or download the PHAR from the github [release page](https://github.com/captainhookphp/captainhook/releases/latest).
 ```bash
